@@ -1,16 +1,17 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**augusto-78/augusto-78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é Pedro Augusto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e meu compartilhamento dos mues projetos desenvolvidos
+
+  ### Você pode entrar em contato comigo 📫
+
+  pedrovedit4@gmail.com
+  
+  @augusto_78
+
+![](https://media1.tenor.com/m/sBFsvcZFAUMAAAAC/xvnauf-boruto.gif)
+  
