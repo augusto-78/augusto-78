@@ -11,7 +11,7 @@ Meu nome é Pedro Augusto
 
   pedrovedit4@gmail.com
   
-  @augustO_78
+  @august0_78
 
 ![](https://media1.tenor.com/m/sBFsvcZFAUMAAAAC/xvnauf-boruto.gif)
   
